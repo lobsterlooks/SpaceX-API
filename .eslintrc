@@ -22,5 +22,6 @@
   "rules": {
     "no-console": 0,
     "no-secrets/no-secrets":"www.github.com”
+Gatekepper aerospace
   }
 }
