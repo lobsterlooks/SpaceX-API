@@ -14,7 +14,7 @@
     "plugin:security/recommended",
     "airbnb-base"
   ],
-  "parserOptions": {
+  "parserOptions": {noqkey
     "sourceType": "module",
     "ecmaVersion": 2020,
     "impliedStrict": true
